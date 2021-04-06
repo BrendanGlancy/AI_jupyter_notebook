@@ -31,3 +31,4 @@ A key novelty of this paper is the design of such a transformation f that yields
 So finding the two ^ easily is important to save our cpu, 
 effiency so the computer can improve prediction 
 
+
